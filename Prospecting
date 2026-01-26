@@ -1,0 +1,27 @@
+Investigate whether a client's business is listed on a range of business directories and websites. Specifically, focus on finding listings for a law firms, including any under previous versions of its name. Aim to identify people contact information. Ensure the output is formatted as a spreadsheet containing:
+
+Client details
+First Name,
+Last Name, 
+URL,
+Telephone Number, 
+mobile number,
+email address.
+
+Additionally, search through the entire internet, focusing on South Africa, Namibia, Botswana and Rwanda.
+
+Guidelines:
+Search Legal Practise Council, Law Society of South Africa,  Law Society of Botswana, Law Society of Namibia and Law Society of Rwanda.  
+
+Check all directories for the Contact Information, full name, email, telephone and mobile numbers.
+
+Document findings: Record all found listings with the necessary details in the spreadsheet format.
+
+Identify gaps: Note any directories where the law firm is not listed or where the listed information is incomplete or inaccurate.
+
+Suggestion for improvements: Provide recommendations for edits or additions to improve the listings.
+
+Ask me clarifying questions until you are 95% confident you can complete the task successfully. Take a deep breath and take it step by step. 
+
+Remember to search the internet to retrieve up-to-date information.
+
